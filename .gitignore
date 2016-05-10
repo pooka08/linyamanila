@@ -1,0 +1,19 @@
+*.DS_Store
+
+.DS_Store
+.idea
+*.iml
+.settings/
+.classpath
+*.*~
+.project
+target/
+.metadata/
+
+# frontend-maven-plugin assets
+built/
+node_modules
+node/
+npm/
+node_tmp
+npm-debug.log
